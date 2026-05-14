@@ -14,7 +14,7 @@ Data yang digunakan dalam proyek ini bersumber dari **Open Data Kota Bandung**, 
 * **Format:** CSV / API.
 * **Rentang Waktu:** Hingga tahun 2025 (Dataset terbaru).
 * **Penyedia Data:** Dinas Lingkungan Hidup (DLH) Kota Bandung / Diskominfo.
-* **URL:** [Link ke dataset asli jika ada, contoh: https://opendata.bandung.go.id/]
+* **URL:** https://opendata.bandung.go.id/
 
 ## 🛠️ Metodologi (CRISP-DM)
 Proyek ini mengikuti standar industri **CRISP-DM**:
